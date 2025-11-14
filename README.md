@@ -1,17 +1,18 @@
 ## Hi, I'm Kaleb 👋
 
-I'm a Computer Science student at WGU (graduating 2026) and an aspiring IT professional. I'm currently building my skills in back-end development (Java, C++), database management, and Linux systems administration.
+I'm a Computer Science student at WGU (graduating 2026) and an aspiring IT professional. I'm currently building my skills in back-end development (Java, C++), database management, and Linux systems administration. <br>
 
 My goal is to transition into a technical role from my current position in Event Operations, where I've been a part of the SSA team since 2022.
+<br>
 
-🌱 What I'm Focusing On:
-Systems & Infrastructure: Linux environments, shell scripting, and core networking.
-Back-End Development: Java, Spring Boot, and REST APIs.
-Core CS & Databases: Data Structures, Algorithms, and SQL.
+🌱 What I'm Focusing On: <br>
+Systems & Infrastructure: Linux environments, shell scripting, and core networking. <br>
+Back-End Development: Java, Spring Boot, and REST APIs. <br>
+Core CS & Databases: Data Structures, Algorithms, and SQL. <br>
 
-📫 How to Reach Me:
-Email: kaleb.t.bond@gmail.com
-LinkedIn: [Placeholder]
+📫 How to Reach Me: <br>
+Email: kaleb.t.bond@gmail.com <br>
+LinkedIn: [Placeholder] <br>
 
 
 <!--
