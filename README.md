@@ -11,7 +11,7 @@ Core CS & Databases: Data Structures, Algorithms, and SQL.
 
 📫 How to Reach Me:
 Email: kaleb.t.bond@gmail.com
-LinkedIn: [Your LinkedIn URL, once we make it]
+LinkedIn: [Placeholder]
 
 
 <!--
