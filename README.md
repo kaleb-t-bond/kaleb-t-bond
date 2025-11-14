@@ -6,9 +6,9 @@ My goal is to transition into a technical role from my current position in Event
 <br>
 
 🌱 What I'm Focusing On: <br>
-<ul>Systems & Infrastructure: Linux environments, shell scripting, and core networking.</ul>
-<ul>Back-End Development: Java, Spring Boot, and REST APIs.</ul> 
-<ul>Core CS & Databases: Data Structures, Algorithms, and SQL.</ul> 
+Systems & Infrastructure: Linux environments, shell scripting, and core networking.
+Back-End Development: Java, Spring Boot, and REST APIs.
+Core CS & Databases: Data Structures, Algorithms, and SQL.
 
 📫 How to Reach Me: <br>
 Email: kaleb.t.bond@gmail.com <br>
