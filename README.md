@@ -10,6 +10,10 @@ Systems & Infrastructure: Linux environments, shell scripting, and core networki
 Back-End Development: Java, Spring Boot, and REST APIs.
 Core CS & Databases: Data Structures, Algorithms, and SQL.
 
+> **A Note on My Portfolio:**
+>
+> My Java/Spring projects (like the Travel API and Inventory App) are kept in **private repositories** to comply with my university's academic integrity policy, as they are based on course-provided templates.
+
 📫 How to Reach Me: <br>
 Email: kaleb.t.bond@gmail.com <br>
 LinkedIn: [Placeholder] <br>
