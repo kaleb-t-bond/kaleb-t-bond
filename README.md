@@ -1,6 +1,22 @@
-## Hi there 👋
+## Hi, I'm Kaleb 👋
+
+I'm a Computer Science student at WGU (graduating 2026) and an aspiring IT professional. I'm currently building my skills in back-end development (Java, C++), database management, and Linux systems administration.
+
+My goal is to transition into a technical role from my current position in Event Operations, where I've been a part of the SSA team since 2022.
+
+🌱 What I'm Focusing On:
+Systems & Infrastructure: Linux environments, shell scripting, and core networking.
+Back-End Development: Java, Spring Boot, and REST APIs.
+Core CS & Databases: Data Structures, Algorithms, and SQL.
+
+📫 How to Reach Me:
+Email: kaleb.t.bond@gmail.com
+LinkedIn: [Your LinkedIn URL, once we make it]
+
 
 <!--
+Below is a commented-out default "tips" section from GitHub about building the README.md page for the main profile
+
 **kaleb-t-bond/kaleb-t-bond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
